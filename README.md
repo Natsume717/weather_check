@@ -1,0 +1,2 @@
+# weather_check
+predicateのweather_checkに関するデータパックサンプルになります。
